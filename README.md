@@ -24,6 +24,15 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+  ![output](image.png)   
+![output](image-3.png)
+![output](image-4.png)
+![output](image-5.png)
+![output](image-6.png)
+![output](image-7.png)
+![output](image-8.png)
+![output](image-9.png)
+![output](image-10.png)
+![output](image-11.png)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature Scaling and Feature Selection process  program is executed successfully!
